@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/SAI_WORKSPACE/ADC_Values/build/CMakeFiles/bootloader
+D:/SAI_WORKSPACE/ADC_Values/build/CMakeFiles/bootloader.rule
+D:/SAI_WORKSPACE/ADC_Values/build/CMakeFiles/bootloader-complete.rule
+D:/SAI_WORKSPACE/ADC_Values/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/SAI_WORKSPACE/ADC_Values/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/SAI_WORKSPACE/ADC_Values/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/SAI_WORKSPACE/ADC_Values/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/SAI_WORKSPACE/ADC_Values/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/SAI_WORKSPACE/ADC_Values/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/SAI_WORKSPACE/ADC_Values/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
